@@ -30,9 +30,9 @@
 ---
 
 ### 📫 ¿Cómo contactarme?  
-📧 **Correo:** [abril.barrientos@gmail.com](mailto:abril.barrientos@gmail.com)  
+📧 **Correo:** [barrientosabrilpilar@hotmail.com](mailto:barrientosabrilpilar@hotmail.com)  
 💼 **LinkedIn:** [Abril Barrientos](https://www.linkedin.com/in/abrilbarrientos)  
-🌐 **Portafolio:** [abrilbarrientos.dev](https://abrilbarrientos.dev)  
+🌐 **Portafolio:** [abrilbarrientos.dev](https://-)  
 
 ---
 
