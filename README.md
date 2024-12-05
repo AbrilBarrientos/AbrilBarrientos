@@ -13,13 +13,6 @@
 - **Bases de datos (MongoDB, SQL)** 📊  
 - Mejores prácticas de **UI/UX** 🎨  
 
----
-
-### 🔭 Proyectos Destacados:  
-📌 **[Mi Portafolio Personal](#https://portfolio-abril-arrientos.vercel.app)**  
-
----
-
 ### 🤝 Busco:  
 - Colaborar en proyectos desafiantes.  
 - Mentoría para seguir creciendo como desarrolladora.  
@@ -30,7 +23,7 @@
 ### 📫 ¿Cómo contactarme?  
 📧 **Correo:** [barrientosabrilpilar@hotmail.com](mailto:barrientosabrilpilar@hotmail.com)  
 💼 **LinkedIn:** [Abril Barrientos](https://www.linkedin.com/in/abrilbarrientos)  
-🌐 **Portafolio:** [abrilbarrientos.dev](https://-)  
+🌐 **Portafolio:** [abrilbarrientos.dev]([https://-](https://portfolio-abril-arrientos.vercel.app))  
 
 ---
 
