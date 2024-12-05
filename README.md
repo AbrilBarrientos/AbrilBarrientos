@@ -1,6 +1,6 @@
 ## Holaaa soy Abril :)
 ### 💻 Desarrolladora Web Junior | 🌱 Aprendiendo y Creciendo 🚀
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer GIF]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg2aDNhOHFvcnd0ejUyZHBhdGs4dXRmN2MwbGFxaWszMHNudGp0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif))
 ### 🛠 Sobre mí  
 ✨ Soy una apasionada por la tecnología y el diseño web. Como desarrolladora web junior, estoy ansiosa por aprender, ganar experiencia y contribuir a proyectos creativos que marquen la diferencia.  
 ✨ Amo explorar nuevas tecnologías y transformar ideas en experiencias interactivas y funcionales.  
