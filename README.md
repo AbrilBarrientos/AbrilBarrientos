@@ -37,9 +37,8 @@
 ---
 
 ### ⚡ Datos curiosos  
-- 🎨 También soy diseñadora gráfica digital.  
-- ☕ ¡El café es mi compañero de código inseparable!  
-- 🎵 Me encanta la música mientras programo (especialmente playlists de lo-fi).  
+- 🎨 Tengo facilidades por el diseño digital
+- ☕ El café y el front-end me hacen feliz 
 
 ---
 
