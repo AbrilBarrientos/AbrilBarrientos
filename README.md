@@ -23,7 +23,7 @@
 ### 📫 ¿Cómo contactarme?  
 📧 **Correo:** [barrientosabrilpilar@hotmail.com](mailto:barrientosabrilpilar@hotmail.com)  
 💼 **LinkedIn:** [Abril Barrientos](https://www.linkedin.com/in/abrilbarrientos)  
-🌐 **Portafolio:** [abrilbarrientos.dev]([https://-](https://portfolio-abril-arrientos.vercel.app))  
+🌐 **Portafolio:** [Portfolio](https://portfolio-abril-arrientos.vercel.app)  
 
 ---
 
