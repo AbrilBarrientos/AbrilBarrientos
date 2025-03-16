@@ -1,22 +1,22 @@
 ## Holaaa soy Abril :)
-### 💻 Desarrolladora Web Junior | 🌱 Aprendiendo y Creciendo 🚀
+### 💻 Desarrolladora Web 
 ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg2aDNhOHFvcnd0ejUyZHBhdGs4dXRmN2MwbGFxaWszMHNudGp0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif)
-### 🛠 Sobre mí  
-✨ Soy una apasionada por la tecnología y el diseño web. Como desarrolladora web junior, estoy ansiosa por aprender, ganar experiencia y contribuir a proyectos creativos que marquen la diferencia.  
-✨ Amo explorar nuevas tecnologías y transformar ideas en experiencias interactivas y funcionales.  
+### Sobre mí  
+✨ Soy una apasionada por la tecnología y el diseño web. Estoy ansiosa por aprender, ganar experiencia y contribuir a proyectos creativos.  
+✨ Amo explorar nuevas tecnologías y transformar ideas en beunas experiencias.  
 
 ---
 
-### 🌱 Actualmente aprendiendo:  
+### Aprendiendo:  
 - **React.js** ⚛️  
 - **Node.js** 🟢  
 - **Bases de datos (MongoDB, SQL)** 📊  
 - Mejores prácticas de **UI/UX** 🎨  
 
 ### 🤝 Busco:  
-- Colaborar en proyectos desafiantes.  
+- Colaborar en proyectos.  
 - Mentoría para seguir creciendo como desarrolladora.  
-- Contribuir a la comunidad tech.  
+- Contribuir a la comunidad.  
 
 ---
 
@@ -27,9 +27,9 @@
 
 ---
 
-### ⚡ Datos curiosos  
-- 🎨 Tengo facilidades por el diseño digital
-- ☕ El café y el front-end me hacen feliz 
+### 
+- 🎨 Siempre tuve facilidades para evolucionar el diseño digital
+- ☕ El café y el front-end son lo que realmente me apasionan
 
 ---
 
